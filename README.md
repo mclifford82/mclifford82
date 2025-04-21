@@ -9,7 +9,7 @@
   - MongoDB/Mongoose
   - Gatsby (unless it pisses me off, then Astro)
 - 📫 How to reach me
-  - http://bsky.app/missingcomma.dev
+  - http://bsky.app/profile/missingcomma.dev
 
 <!---
 mclifford82/mclifford82 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
