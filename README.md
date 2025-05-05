@@ -1,13 +1,12 @@
 - 👋 Hi, I’m Martin
 - 👀 I’m interested in
-  - SQL
-  - JavaScript
+  - Front and backend development
+  - Anything data related
 - 🌱 I’m currently learning
   - git
-  - JavaScript
-  - React
+  - SolidJS
   - MongoDB/Mongoose
-  - Gatsby (unless it pisses me off, then Astro)
+  - Gatsby
 - 📫 How to reach me
   - http://bsky.app/profile/missingcomma.dev
 
